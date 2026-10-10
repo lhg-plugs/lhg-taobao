@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "lhg-plugs",
+  "owner": {
+    "name": "刘洪光"
+  },
+  "plugins": [
+    {
+      "name": "lhg-taobao",
+      "description": "小白一句话→淘宝店铺运营全流程：选品、上架、标题/主图优化、数据复盘，方法论与检查清单一次配齐（平台规则变化快，不承诺实时数据、流量与排名效果）。",
+      "source": "./"
+    }
+  ]
+}
